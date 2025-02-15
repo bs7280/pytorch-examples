@@ -4,3 +4,5 @@ notebooks/cifar_net.pth
 
 # torch models
 *.pth
+
+notebooks/*.csv
