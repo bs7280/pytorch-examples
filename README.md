@@ -10,3 +10,4 @@ links:
 - [Automated Bitcoin Trading dApp Using Price Prediction from a Deep Learning Model](https://www.mdpi.com/2227-9091/13/1/17)
 - [A profitable trading algorithm for cryptocurrencies using a Neural Network model - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0957417423023084)
 - [Trading Economics - Analytics - Indicators](https://tradingeconomics.com/analytics/indicators.aspx)
+- https://www.kaggle.com/code/nishaanamin/bracketology-predicting-march-madness#MLM
