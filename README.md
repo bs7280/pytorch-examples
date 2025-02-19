@@ -19,3 +19,6 @@ links:
 - [Using rNN and ARIMA to predict BITCOIN price](https://www.kaggle.com/code/zikazika/using-rnn-and-arima-to-predict-bitcoin-price)
 - [Bitcoin Historical Data](https://www.kaggle.com/datasets/swaptr/bitcoin-historical-data/discussion/372899)
 - [Cryprocurrency prices for the year](https://www.kaggle.com/datasets/artemburenok/cryprocurrency-prices-for-the-year)
+- Optimization:
+    - https://github.com/google-research/tensorflow_constrained_optimization
+    - https://github.com/cooper-org/cooper/blob/master/tutorials/interactive_toy_2d.ipynb
