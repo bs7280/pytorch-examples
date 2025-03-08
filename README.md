@@ -19,6 +19,10 @@ links:
 - [Using rNN and ARIMA to predict BITCOIN price](https://www.kaggle.com/code/zikazika/using-rnn-and-arima-to-predict-bitcoin-price)
 - [Bitcoin Historical Data](https://www.kaggle.com/datasets/swaptr/bitcoin-historical-data/discussion/372899)
 - [Cryprocurrency prices for the year](https://www.kaggle.com/datasets/artemburenok/cryprocurrency-prices-for-the-year)
+- [mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis · Hugging Face](https://huggingface.co/mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis)
+- [Sentiment Analysis of Bitcoin News (2021 - 2024)](https://www.kaggle.com/datasets/imadallal/sentiment-analysis-of-bitcoin-news-2021-2024)
+- [soheilrahsaz/cryptoNewsDataset: 174k Cryptocurrency news fetched from Cryptopanic.com](https://github.com/soheilrahsaz/cryptoNewsDataset)
+- [superglue-ai/superglue: Self-healing open source data connector. Use it as a layer between you and any complex / legacy APIs and always get the data that you want in the format you expect.](https://github.com/superglue-ai/superglue)
 - Optimization:
     - https://github.com/google-research/tensorflow_constrained_optimization
     - https://github.com/cooper-org/cooper/blob/master/tutorials/interactive_toy_2d.ipynb
@@ -49,9 +53,13 @@ links:
     - [Build a Large Language Model (From Scratch): Raschka, Sebastian: 9781633437166: Amazon.com: Books](https://www.amazon.com/Build-Large-Language-Model-Scratch/dp/1633437167?crid=228R4JI0P0QFR&dib=eyJ2IjoiMSJ9.XvZyIer9iV133BWXqNiVt_OOJXZheO54dvZtQly8MC25PNYZrN3OWsGLjbg3I0G9hI3LkjwhsORxvHIob3nvCZFgdSSQEFe07VkehijGxT03n4Amdw7lnXxnsOUuWXeglfHnewCcV3DjL9zWHELfh5DG1ZErzFym3S6ZxSuFzNvoPkaq0uDlD_CKwqHdC0KM_RdvIqF0_2RudgvzRli0V155KkusHRck3pG7ybp5VyqKDC_GgL_MEywLwLhFgX6kOCgV6Rq90eTgSHFd6ac8krpIYjsHWe6H3IXbfKGvMXc.473O1-iUZC0z2hdx8L5Z5ZTNxtNV9gNPw_mE7QZ5Y90&dib_tag=se&keywords=raschka&qid=1730250834&sprefix=raschk,aps,162&sr=8-1&linkCode=sl1&tag=rasbt03-20&linkId=84ee23afbd12067e4098443718842dac&language=en_US&ref_=as_li_ss_tl)
     - [Understanding Deep Learning: Prince, Simon J.D.: 9780262048644: Amazon.com: Books](https://www.amazon.com/Understanding-Deep-Learning-Simon-Prince/dp/0262048647)
     - [Python for Algorithmic Trading Cookbook: Recipes for designing, building, and deploying algorithmic trading strategies with Python: 9781835084700: Computer Science Books @ Amazon.com](https://www.amazon.com/dp/1835084702/ref=syn_sd_onsite_desktop_0?ie=UTF8&psc=1&pf_rd_p=4500617b-0cc7-45a9-8bde-f455bfff54d3&pf_rd_r=5SNWJG9XEAJAHYNPHA0Y&pd_rd_wg=mZ0tf&pd_rd_w=V3gOF&pd_rd_r=ef71ad5c-ff26-48f3-bb57-2cf4bbd806dc&aref=01ucmnySke)
+- [LLM capability, cost, & throughput (www.harlanlewis.com) - Google Drive](https://docs.google.com/spreadsheets/d/1foc98Jtbi0-GUsNySddvL0b2a7EuVQw8MoaQlWaDT-w/htmlview#)
+    - awesome LLM comparison sheet
  
 Crazy cuda unsloth job challenge:
   - [Daniel Han on X: "We made 5 challenges and if you score 47 points we'll offer you $500K/year + equity to join us at 🦥@UnslothAI! No experience or PhD needed. $400K - $500K/yr: Founding Engineer (47 points) $250K - $300K/yr: ML Engineer (32 points) Challenges: 1. Convert nf4 / BnB 4bit to https://t.co/EuPP4kvhPQ" / X](https://x.com/danielhanchen/status/1891194528931209644)
   - [Unsloth\_Puzzles.ipynb - Colab](https://colab.research.google.com/drive/1JqKqA1XWeLHvnYAc0wzrR4JBCnq43HyH?usp=sharing#scrollTo=5uwPWn_fCGFo)
+
+
  
 Random: https://www.stacksocial.com/sales/magtag-ultra-slim-tracker-card-with-apple-find-my
